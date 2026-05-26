@@ -67,13 +67,6 @@ I am a Software Engineer with over **7 years of experience** building scalable w
 
 ---
 
-### 📊 GitHub Stats
-
-[![borz000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=borz000&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/borz000)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borz000&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/borz000)
-
----
-
 ### 🎤 Speaking & Writing
 * **JSConf Armenia:** [JavaScript Engines: The V8 Engine](https://youtu.be/5_NVFmmjEI0?si=plVT6sTl3D-FQvQm) 📺
 * **Tech Talk:** [Cracking JS Interviews](https://youtu.be/Nvtrjr6_PnQ?si=yxpDTBc3D2hhMLsw) 📺
