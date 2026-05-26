@@ -69,10 +69,8 @@ I am a Software Engineer with over **7 years of experience** building scalable w
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borz000&show_icons=true&theme=tokyonight&hide_border=true" alt="borz000's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borz000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+[![borz000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=borz000&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/borz000)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borz000&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/borz000)
 
 ---
 
